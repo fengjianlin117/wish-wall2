@@ -1,3 +1,5 @@
-# database.py
+# Database configuration and handling
 
-# Your code here
+class Database:
+    def connect(self):
+        pass  # Connection logic here
